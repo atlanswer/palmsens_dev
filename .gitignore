@@ -1,5 +1,9 @@
 # PalmSens SDK for Matlab
 PalmSens SDK for Matlab 5.7/
 
-# Settings file
-settings.mat
+# Saved files
+*.mat
+
+# PalmSens files
+*.pssession
+*.psmethod
