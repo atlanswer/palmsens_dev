@@ -4,3 +4,6 @@
 # Project files
 !.gitignore
 !data_acquisition.mlapp
+!res/
+!res/screenshot.jpg
+!README.md
