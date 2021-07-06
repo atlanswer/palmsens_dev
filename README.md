@@ -2,6 +2,8 @@
 
 Data acquisition application using [PalmSens SDK for MATLAB](https://www.palmsens.com/software/matlab-sdk/).
 
+This project has been abandened.
+
 ## Demo
 
 ![Demo](res/screenshot.jpg)
